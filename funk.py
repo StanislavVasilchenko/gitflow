@@ -1,2 +1,2 @@
 def funk():
-    return None
+    return "hello"
